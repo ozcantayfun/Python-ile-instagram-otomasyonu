@@ -2,4 +2,4 @@
 #instagram kullanıcı adınızı giriniz.
 kullanici_adi="_bth14"
 #instagram şifrenizi giriniz.
-sifre="kestane.099"SS
+sifre="kestane.099"
